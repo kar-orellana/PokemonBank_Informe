@@ -1,0 +1,18 @@
+
+/* Estilos de Pokémon Bank */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f4f6;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #1e3a8a;
+}
+
+p {
+    color: #333333;
+    font-size: 18px;
+}
